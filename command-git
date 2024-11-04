@@ -4,3 +4,10 @@ les 3 commandes push sont :
 git add
 git commit -m"xxxx"
 git push
+
+la commande git pull :
+Est utilisée pour synchroniser un dépôt local avec un dépôt distant en téléchargeant les modifications et en les fusionnant directement
+dans la branche locale active. 
+Elle combine deux actions :
+1.Téléchargement des modifications (similaire à la commande git fetch).
+2.Fusion des modifications dans la branche locale (similaire à la commande git merge).
