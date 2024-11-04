@@ -5,7 +5,7 @@ git add
 git commit -m"xxxx"
 git push
 
-la commande git pull :
+la commande git pull : il faut taper dans le terminal dans le bon repertoir   : git pull
 Est utilisée pour synchroniser un dépôt local avec un dépôt distant en téléchargeant les modifications et en les fusionnant directement
 dans la branche locale active. 
 Elle combine deux actions :
